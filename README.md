@@ -1,3 +1,3 @@
-Hello Everyone ! 
-I'm Aashwija Thantry, currently a first year student studying Bachelors of Computer Applications.
-I am currently interested in Web Designing, Game Development and Designing and Animation !!
+Hi There!!
+I'm Aashwija, a second year student at PES University pursuing Bachelor of Computer Applications. I'm passionate about exploring Data Science and enhancing my skills in Data Analysis. I also harbour a strong interest in UI/UX Design. I am always eager to learn and grow in both technical and design aspects
+
